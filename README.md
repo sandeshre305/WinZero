@@ -23,7 +23,6 @@
 <p align="center">
   <b>Modern Windows Optimizer • Privacy Tool • FPS Boost Utility</b>
 </p>
-```
 
 
 ---
