@@ -83,4 +83,4 @@ Perfect for users looking for:
 
 ## 🔍 SEO Keywords
 
-windows optimizer, windows 11 optimizer, debloat windows 11, telemetry blocker, privacy tool, fps boost windows, gaming optimizer, windows tweak utility, performance booster, startup manager, open-source optimizer, lightweight optimizer, portable windows utility
+windows optimizer, windows 11 optimizer, debloat windows 11, telemetry blocker, privacy tool, fps boost windows, gaming optimizer, windows tweak utility, performance booster, startup manager, open-source optimizer, lightweight optimizer, portable windows utility, free windows optimizer, windows 10
